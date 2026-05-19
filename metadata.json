@@ -1,0 +1,6 @@
+{
+  "name": "Movie Bub",
+  "description": "An ultra-sleek, AI-powered cinematic recommender and discovery app that matches movies perfectly to your taste and mood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
